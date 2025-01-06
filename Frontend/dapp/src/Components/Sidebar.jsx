@@ -23,7 +23,7 @@ function Sidebar({ connectToMetamask, disconnectFromMetamask, connected }) {
         <Link to='/addpost' className="hover:shadow-sm hover:shadow-slate-500 rounded-xl w-44  p-1 cursor-pointer hover:text-gray-400">➕ Create</Link>
         <Link to='/profile' className="hover:shadow-sm hover:shadow-slate-500 rounded-xl w-44  p-1 cursor-pointer hover:text-gray-400">👤 Profile</Link>
         </div>
-      </ul>
+      </ul> 
       
   
     </div>
