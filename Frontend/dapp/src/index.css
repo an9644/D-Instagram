@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bo{
+    overflow-x: hidden;
+    margin:0;
+    padding: 0;
+    
+}
