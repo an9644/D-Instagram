@@ -1,5 +1,5 @@
-## 💫🏅D-Instagram 
-:<br><br>D-instagram is a decentralized instagram application. in this application user can post the pictures,like and gave ether as a tip.<br><br>🎯 Objective<br><br>Using Blockchain in this Web application made this application more even secure.more accessible accross world.<br><br>🛠️ Built With<br>-Backend : Solidity, Ethereum, Smart Contract, Hardhat,Node.js, Express.js<br>-Frontend : HTML, Tailwind, JavaScript, React, CSS<br><br>✨File Structure<br><br>-Contracts :Its the srver side file ,it contain the Smart Contract and other files .<br>- Frontend:This file contain the React Frontend part of the project and the integration codes.<br><br>
+# 💫🏅D-Instagram 
+<br><br>D-instagram is a decentralized instagram application. in this application user can post the pictures,like and gave ether as a tip.<br><br>🎯 Objective<br><br>Using Blockchain in this Web application made this application more even secure.more accessible accross world.<br><br>🛠️ Built With<br>-Backend : Solidity, Ethereum, Smart Contract, Hardhat,Node.js, Express.js<br>-Frontend : HTML, Tailwind, JavaScript, React, CSS<br><br>✨File Structure<br><br>-Contracts :Its the srver side file ,it contain the Smart Contract and other files .<br>- Frontend:This file contain the React Frontend part of the project and the integration codes.<br><br>
 
 
 # 💻 Tech Stack:
