@@ -12,4 +12,37 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=an9644&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## ⚙️ Getting Started
+
+To run the project locally, follow these steps:
+
+### 🚀 Frontend Setup
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:an9644/D-GetCertificate-App.git
+   ```   
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
+   
+3. Navigate to the frontend directory:
+   ```bash
+   cd Frontend
+   cd dapp
+   ```
+   
+4. Open the application in your browser or local server.
+
+### 🔧 Backend Setup
+1. Navigate to the backend directory:
+   ```bash
+   cd Contracts
+   ```
+   
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
+   
