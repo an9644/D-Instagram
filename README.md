@@ -48,7 +48,5 @@ To run the project locally, follow these steps:
 
 Demo for D-Instagram Application
 
-```bash
 https://youtu.be/icUmCeGVd2g?si=d3tvtEcvHz5LM-AJ
-```
 
